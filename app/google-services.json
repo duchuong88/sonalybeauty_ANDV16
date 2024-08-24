@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "220451868057",
+    "firebase_url": "https://sonaly-beauty.firebaseio.com",
+    "project_id": "sonaly-beauty",
+    "storage_bucket": "sonaly-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220451868057:android:2becd5e160648fc2491708",
+        "android_client_info": {
+          "package_name": "vn.sonalybeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220451868057-44rno5ctjlns56ni51udji4732a27876.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJZxkZmfm4VicMr7IOrnC0AHiMmxK4JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220451868057-44rno5ctjlns56ni51udji4732a27876.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220451868057-trr1kfr4v9sed1hffbtb7g7q6kb12u7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.Sonaly-Spa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220451868057:android:fea28f476feb305e491708",
+        "android_client_info": {
+          "package_name": "vn.sonalybeauty2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220451868057-44rno5ctjlns56ni51udji4732a27876.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANJZxkZmfm4VicMr7IOrnC0AHiMmxK4JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220451868057-44rno5ctjlns56ni51udji4732a27876.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220451868057-trr1kfr4v9sed1hffbtb7g7q6kb12u7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.Sonaly-Spa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
